@@ -105,22 +105,22 @@ print(df1)
 ## OUTPUT:
 
 ### DATASET:
-![data](out1.png)
+![out1](https://user-images.githubusercontent.com/93427534/192864911-e3c9712b-a86d-4cf4-a813-c2a7d847e374.png)
 
-### DISCRIBING DATA:
-![data](out2.png)
+### VALUES OF INPUT AND OUTPUT DATA ON VAR X AND Y:
+![out2](https://user-images.githubusercontent.com/93427534/192864948-4088dd7b-16f3-48bb-9d56-f3960b42d134.png)
 
 ### NORMALIZING DATA:
-![data](out3.png)
+![out3](https://user-images.githubusercontent.com/93427534/192864983-8520a323-33fc-4370-b0d5-edf5195f0817.png)
 
 ### X_TRAIN AND Y_TRAIN VALUES:
-![data](out4.png)
+![out4](https://user-images.githubusercontent.com/93427534/192865066-e9ec4d24-734a-4eb6-8bf3-c9ac9b2904b6.png)
 
 ### X AMD Y VALUES:
-![data](out5.png)
+![out5](https://user-images.githubusercontent.com/93427534/192865089-b32bf589-d0e9-4850-8eba-1f4b5acb7255.png)
 
 ### X_TEST AND Y_TEST VALUES:
-![data](out6.png)
+![out6](https://user-images.githubusercontent.com/93427534/192865122-d0478440-af1f-4004-af95-91958176282d.png)
 
 ## RESULT:
 Thus,the program to perform Data preprocessing in a data set downloaded from Kaggle is implemented successfully.. 
